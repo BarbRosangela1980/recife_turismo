@@ -14,3 +14,57 @@ footer{
 }
 nav{
     padding-inline-start: 80%;
+}
+/*css da página curiosidades*/
+
+
+.tour,h2{
+
+    text-align: center;
+}
+
+.cais{
+   
+display:flex;
+padding:50px;; 
+margin-right: 20px;
+
+}
+
+.p-ferro{
+   
+    display:flex;
+    padding:50px;; 
+    margin-right: 20px;
+    flex-direction:row-reverse
+}
+
+.b-jesus{
+   
+    display:flex;
+    padding:50px;; 
+    margin-right: 20px;
+        
+}
+.sinagoga{
+   
+    display:flex;
+    padding:50px;; 
+     margin-right: 20px;
+    flex-direction:row-reverse
+}
+.bonecos-g{
+   
+    display:flex;
+    padding:50px;; 
+    margin-right: 20px;
+            
+}
+.p-escultura{
+   
+    display:flex;
+    padding:50px;; 
+    margin-right: 20px;
+    flex-direction:row-reverse
+    }
+
