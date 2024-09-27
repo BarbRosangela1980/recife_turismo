@@ -1,5 +1,6 @@
 header{
 background-color: rgb(161, 185, 185);
+
 }
 
 body{
@@ -7,4 +8,9 @@ body{
 }
 footer{
     background-color: rgb(161, 185, 185); 
+    text-align: center;
+    color: blue;
+    padding-bottom: 7px;
 }
+nav{
+    padding-inline-start: 80%;
